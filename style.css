@@ -1,0 +1,15 @@
+.title{
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+    background: cover;
+    margin: opx 100px;
+}
+.image{
+    width: 400px;
+    left: 100px;
+}
+.text{
+
+
+
+}
